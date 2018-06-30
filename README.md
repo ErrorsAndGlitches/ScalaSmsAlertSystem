@@ -1,5 +1,7 @@
 # Sms Alert System for Scala
 
+This readme needs work.
+
 [![Build Status](https://travis-ci.org/ColectivaLegal/ScalaSmsAlertSystem.svg?branch=master)](https://travis-ci.org/ColectivaLegal/ScalaSmsAlertSystem)
 
 Below you will find basic setup instructions for developing the SysmAlertSystem. 
